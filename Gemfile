@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # devise
-gem 'devise', '~> 3.4.0'
+gem 'devise', '~> 4.7.1'
 # angular_rails_csrf
 gem 'angular_rails_csrf'
 # The controller-level `respond_to' feature has been extracted to the `responders` gem. Add it to your Gemfile to continue using this feature: gem 'responders', '~> 2.0' Consult the Rails upgrade guide for details.
